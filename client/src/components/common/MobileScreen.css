@@ -1,0 +1,66 @@
+/* For Mobile Responsive */
+
+/* For screens below 600px width (mobile) */
+@media (max-width: 600px) {
+  .css-ll63kb-MuiDrawer-docked {
+    width: 65px !important;
+  }
+}
+
+/* For screens above 600px and below 900px */
+@media (min-width: 600px) and (max-width: 900px) {
+  .css-1m7oc79-MuiList-root {
+    display: none !important;
+  }
+}
+
+/* For screens below 470px */
+@media (max-width: 470px) {
+  .emoji-mart {
+    width: 245px !important;
+  }
+  .css-my6xib {
+    width: calc(100vw - 135px) !important;
+  }
+}
+
+/* For screens above 470px and below 600px */
+@media (max-width: 600px) and (min-width: 470px) {
+  .css-my6xib {
+    width: calc(100vw - 150px) !important;
+  }
+}
+
+/* Media query for screen sizes below 460px */
+@media (max-width: 460px) {
+  .css-1drlny6 {
+    width: 235px !important;
+    padding: 0 !important;
+  }
+}
+
+/* Media query for screen sizes below 470px */
+@media (max-width: 600px) {
+  .css-1or0op1 {
+    padding: 0 !important;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .css-14whxs9 {
+    top: 54% !important;
+    left: 58% !important;
+    width: 75% !important;
+  }
+}
+
+/* For screens above 600px and below 1000px */
+@media (min-width: 600px) and (max-width: 1000px) {
+  .css-1or0op1 {
+    padding: 0 !important;
+  }
+  .css-14whxs9 {
+    top: 55% !important;
+    left: 67% !important;
+  }
+}
