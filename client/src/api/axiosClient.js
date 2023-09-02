@@ -2,7 +2,9 @@ import axios from "axios";
 import queryString from "query-string";
 
 // Define the base URL for your API
-const baseUrl = "http://127.0.0.1:5000/api/v1/";
+const baseUrl =
+  process.env.REACT_APP_BASE_URL || "http://127.0.0.1:5000/api/v1/";
+
 // Function to get the authentication token from local storage
 const getToken = () => localStorage.getItem("token");
 
