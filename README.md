@@ -8,22 +8,20 @@ This application should seamlessly allow users to manage tasks among different s
 ## 1) 💻Application Interface :- 
 ### Desktop screen:- 
 
-![Signup Page](https://github.com/Hemantk1234/Kanban_Board_Task_Management/assets/125623888/54435d7d-e271-4eb0-931d-c75cc7898661)
-
-![HomePage1](https://github.com/Hemantk1234/Kanban_Board_Task_Management/assets/125623888/22c436cd-1fae-4631-8918-b9d45f193431)
-
-![HomePage2](https://github.com/Hemantk1234/Kanban_Board_Task_Management/assets/125623888/c1235719-c2e1-4038-9efa-036fa0f39d83)
-
-![Demo Task page](https://github.com/Hemantk1234/Kanban_Board_Task_Management/assets/125623888/ceafc3a5-2b68-4c8b-99b8-a4490bea8839)
-
-![Add Task Card](https://github.com/Hemantk1234/Kanban_Board_Task_Management/assets/125623888/cf0f5be9-7cc2-4fb4-b93b-c250b00a8d60)
+<div align="center">
+    <img src="https://github.com/Hemantk1234/Kanban_Board_Task_Management/assets/125623888/54435d7d-e271-4eb0-931d-c75cc7898661" width="400px"</img>
+    <img src="https://github.com/Hemantk1234/Kanban_Board_Task_Management/assets/125623888/22c436cd-1fae-4631-8918-b9d45f193431" width="400px"</img>
+    <img src="https://github.com/Hemantk1234/Kanban_Board_Task_Management/assets/125623888/c1235719-c2e1-4038-9efa-036fa0f39d83" width="400px"</img>
+    <img src="https://github.com/Hemantk1234/Kanban_Board_Task_Management/assets/125623888/ceafc3a5-2b68-4c8b-99b8-a4490bea8839" width="400px"</img>
+    <img src="https://github.com/Hemantk1234/Kanban_Board_Task_Management/assets/125623888/cf0f5be9-7cc2-4fb4-b93b-c250b00a8d60" width="400px"</img>
+</div>
 
 ### Mobile Screen:- 
-![Signup Page](https://github.com/Hemantk1234/Kanban_Board_Task_Management/assets/125623888/df888989-ed26-4246-a9bb-57de758c04a1)
-
-![Demo Task page](https://github.com/Hemantk1234/Kanban_Board_Task_Management/assets/125623888/5dd0aaf6-11e3-46b1-8887-a5d62a2af6f7)
-
-![Add Task Card](https://github.com/Hemantk1234/Kanban_Board_Task_Management/assets/125623888/ff4f8472-c1f6-4062-86ce-6e1d52450efc)
+<div align="center">
+    <img src="https://github.com/Hemantk1234/Kanban_Board_Task_Management/assets/125623888/df888989-ed26-4246-a9bb-57de758c04a1" width="400px"</img>
+    <img src="https://github.com/Hemantk1234/Kanban_Board_Task_Management/assets/125623888/5dd0aaf6-11e3-46b1-8887-a5d62a2af6f7" width="400px"</img>
+    <img src="https://github.com/Hemantk1234/Kanban_Board_Task_Management/assets/125623888/ff4f8472-c1f6-4062-86ce-6e1d52450efc" width="400px"</img>
+</div>
 
 ## 2) 🔗 Live Demo :- 
 A live URL to view and test the application [Kanban_Board_Task_Management](https://kanban-task-management-board.netlify.app/).
