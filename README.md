@@ -18,9 +18,9 @@ This application should seamlessly allow users to manage tasks among different s
 
 ### Mobile Screen:- 
 <div align="center">
-    <img src="https://github.com/Hemantk1234/Kanban_Board_Task_Management/assets/125623888/df888989-ed26-4246-a9bb-57de758c04a1" width="400px"</img>
-    <img src="https://github.com/Hemantk1234/Kanban_Board_Task_Management/assets/125623888/5dd0aaf6-11e3-46b1-8887-a5d62a2af6f7" width="400px"</img>
-    <img src="https://github.com/Hemantk1234/Kanban_Board_Task_Management/assets/125623888/ff4f8472-c1f6-4062-86ce-6e1d52450efc" width="400px"</img>
+    <img src="https://github.com/Hemantk1234/Kanban_Board_Task_Management/assets/125623888/df888989-ed26-4246-a9bb-57de758c04a1" width="265px"</img>
+    <img src="https://github.com/Hemantk1234/Kanban_Board_Task_Management/assets/125623888/5dd0aaf6-11e3-46b1-8887-a5d62a2af6f7" width="265px"</img>
+    <img src="https://github.com/Hemantk1234/Kanban_Board_Task_Management/assets/125623888/ff4f8472-c1f6-4062-86ce-6e1d52450efc" width="265px"</img>
 </div>
 
 ## 2) 🔗 Live Demo :- 
